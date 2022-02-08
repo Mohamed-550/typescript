@@ -1,5 +1,5 @@
 # typescript
-> ملاحظات خلال تعلم لغة typescript
+>ملاحظات خلال تعلم لغة typescript
 
 ***
 ## `` $npm init ``
